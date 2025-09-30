@@ -1,0 +1,9 @@
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/Modules/CMakeFiles/caesar.dir
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/Modules/CMakeFiles/xor.dir
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/Modules/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/Modules/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/Application/CMakeFiles/output.dir
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/Application/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/Application/CMakeFiles/rebuild_cache.dir

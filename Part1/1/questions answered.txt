@@ -1,0 +1,12 @@
+Two methods to make script globally reachable:
+1. Copy/move script into /usr/local/bin/ (or /bin) → system-wide PATH.
+   Example: sudo cp userdef /usr/local/bin/
+
+2. Add its directory to PATH in ~/.bashrc or /etc/profile.
+   Example: export PATH=$PATH:/path/to/script
+
+Making it permanent:
+- Add export PATH=$PATH:/path/to/script into ~/.bashrc or ~/.profile
+
+Apply immediately without reopening terminal:
+- Run: source ~/.bashrc

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/output.dir/app.c.o -o /mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/Application/output  -Wl,-rpath,"\$ORIGIN/out/libs:/mnt/c/Users/mmmsa/OneDrive/LinuxProject/Part2/CMake/Project_required_files/build/Modules" ../Modules/libcaesar.a ../Modules/libxor.so 

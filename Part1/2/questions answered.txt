@@ -1,0 +1,6 @@
+g) su - <username>
+h) ls -lR ~/mydir
+i) sudo chown -R <username>:<username> ~/mydir
+j) ls -lR ~/mydir
+k) grep -r "file" ~/mydir
+l) rm ~/mydir/*.c
